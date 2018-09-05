@@ -3,7 +3,18 @@
 
 <body>
         <div layout:fragment="content">
-            <h1>Index</h1>
+            <table class="table">
+                <thead>
+                <th>
+                    1
+                </th>
+                </thead>
+                <tbody>
+                <td>
+                    2
+                </td>
+                </tbody>
+            </table>
         </div>
 </body>
 </html>
